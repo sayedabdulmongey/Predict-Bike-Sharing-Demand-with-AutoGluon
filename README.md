@@ -33,3 +33,6 @@ This project highlights the importance of iterative improvements in machine lear
 ## Future Work
 
 Future work may include exploring additional features, experimenting with other machine learning frameworks, and deploying the model for real-time prediction to further validate its practical applicability.
+
+## Completion Badge
+![Completion Badge](certification_badge_5.webp)
